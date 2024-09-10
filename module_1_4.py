@@ -1,6 +1,0 @@
-my_string = input('Введите ваше имя ')
-print(len(my_string),'букв в вашем имени')
-print( my_string .upper().lower())
-print('Введите ваше имя ' .replace(' ', ''))
-print(my_string[0:1])
-print(my_string[-1])
